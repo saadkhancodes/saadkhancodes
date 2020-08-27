@@ -1,13 +1,39 @@
-## [Home](https://saadkhancodes.github.io/saadkhancodes/)
+## [Home](https://saadkhancodes.github.io/saadkhancodes/) , [Projects](https://saadkhancodes.github.io/saadkhancodes/index.md)
 
 
-## Projects
+## Hello, World!
 
-Below are a sample of projects I've worked on throughout my time in Loyola. Each project covers a topic such as App Development, Network Security, Internet Privacy, Computer Forensics, Project Management, Or Human-Computer Interaction
-
-
-### Project Management Case Study: Electric Vehicle Prototype
-During my COMP 377: IT Project Management course, my group and I managed a semester long project management cast study. Our group studied the costs, risks, and responsibilities that a company like Toyota would need to consider when it comes to building an electric car prototype. We used a variety of project management methodologies such as scrum, risk analysis, agile management, and more.
+I am a highly motivated student at Loyola University Chicago studying Computer Science with an emphasis on Cybersecurity. Through my studies and experiences, I've become passionate about using my knowledge and skillset in technology to solve social, legal, and ethical issues in industries such as Cybersecurity, Human-Computer Interaction, Healthcare, and Start-Ups.
 
 
-[![IMAGE ALT TEXT](https://cdnb.artstation.com/p/assets/images/images/016/597/863/large/lam-phung-blueprint-blue-01.jpg?1552754086)](https://www.youtube.com/watch?v=31JkCZ1E3zQ "Project Management: Electric Vehicle Prototype") 
+### Markdown
+
+Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+
+```markdown
+Syntax highlighted code block
+
+# Header 1
+## Header 2
+### Header 3
+
+- Bulleted
+- List
+
+1. Numbered
+2. List
+
+**Bold** and _Italic_ and `Code` text
+
+[Link](url) and ![Image](src)
+```
+
+For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
+
+### Jekyll Themes
+
+Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/saadkhancodes/saadkhancodes/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
+
+### Support or Contact
+
+Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
